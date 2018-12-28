@@ -1,0 +1,21 @@
+﻿.swagger-ui .topbar {
+    background-color: rgb(250, 250, 250);
+}
+.swagger-ui .topbar .download-url-wrapper .select-label span {
+        visibility: hidden;
+        color: white;
+}
+.swagger-ui .topbar .download-url-wrapper .select-label span:after {
+    content: "Version";
+    visibility: visible;
+}
+
+.swagger-ui .topbar a span {
+    visibility: hidden;
+}
+
+.swagger-ui .topbar a span:after {
+    content: "Your-Business";
+    font-size: 0.9em;
+    visibility: visible;
+}

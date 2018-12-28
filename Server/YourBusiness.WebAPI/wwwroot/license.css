@@ -1,0 +1,27 @@
+﻿body {
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+    body header .lic-header h1 {
+        font-family: 'Segoe UI', Arial;
+        font-size: 1.5em;
+    }
+
+    body main .lic-main {
+        margin-top: 2em;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+        body main .lic-main .lic-main-annot {
+            margin-top: 1em;
+            font-style: italic;
+        }
+
+    body footer .lic-footer {
+        margin-top: 3em;
+        margin-left: 64px;
+        margin-right: 64px;
+        font-family: Consolas;
+    }

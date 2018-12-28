@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YourBusiness.WebAPI.Core.Contracts\YourBusiness.WebAPI.Core.Contracts.csproj" />
+    <ProjectReference Include="..\YourBusiness.WebAPI.Data.Contracts\YourBusiness.WebAPI.Data.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
